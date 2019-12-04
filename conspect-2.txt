@@ -1,0 +1,10 @@
+-> controller + DTO + service
+
+repository + entity
+
+Separation of concerns
+
+Dto service(dto)
+- repository 1
+- repository 2
+- repository 15

@@ -1,0 +1,30 @@
+phase 1 - project configuration
+- databases
+- packages
+- configurations
+
+"Твердо ли стоим на земле?"
+
+On the line
+Ready
+All Set
+
+Start
+--------------------------------
+phase 2
+- entity + repository
+- configuration
+- dto + controller
+- service
+
+
+enum converters
+createdOn and updatedOn
+@CreatedDate
+@LastModifiedDate
+
+
+
+RestTemplate
+ObjectMapper
+Jpa additional configurations

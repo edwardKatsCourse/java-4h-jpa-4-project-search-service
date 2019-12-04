@@ -1,0 +1,12 @@
+Products
+
+1. Search engine
+2. enum
+- Jackson
+- JPA
+
+3. @CreatedDate @LastModifiedDate
+
+updated on
+created on
+
